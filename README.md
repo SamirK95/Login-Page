@@ -1,6 +1,15 @@
-# Login-Page
-This is login page. I made it using ASP.NET and CSS
-If you want to clone this project to the visual studio, you need to update DOM. 
-After cloning project to the folder, open it with visual studio and in the solution explorer 
-right click on the solution and go to Manage NuGet Packages and click tab-update,
-select the whole project and click update. After that it's updated, and you can use this project.
+ ## Login Page Template
+
+![Login Page](https://github.com/SamirK95/Login-Page/blob/branchForEdit/sign%20in%20.png)
+
+
+This repository contains a simple and responsive login page template built using ASP.NET and CSS. It can serve as a starting point for your web development projects, providing you with a structured login page that you can customize to fit your needs.
+
+## Features
+
+- User-friendly login interface.
+- Easily customizable with CSS to match your branding.
+- Responsive design for various screen sizes.
+- Built with ASP.NET, making it compatible with the .NET ecosystem.
+
+  Feel free to contribute to this project or use the login page template for your own web development projects.
